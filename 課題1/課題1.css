@@ -86,4 +86,19 @@ footer {
   .box:last-child{
     margin-bottom: 0;
   }
+  .flow01 {
+  width: auto;
+  background-size: cover;
+  background-position: bottom;
+  }
+  .flow02 {
+  width: auto;
+  background-size: cover;
+  background-position: bottom;
+  }
+  .flow03 {
+  width: auto;
+  background-size: cover;
+  background-position: bottom;
+  }
 }
